@@ -32,7 +32,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "chrischerrett\\LaravelAzureStorage\\": "src/"
+            "Matthewbdaly\\LaravelAzureStorage\\": "src/"
         }
     },
     "autoload-dev": {
@@ -43,7 +43,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "chrischerrett\\LaravelAzureStorage\\AzureStorageServiceProvider"
+                "Matthewbdaly\\LaravelAzureStorage\\AzureStorageServiceProvider"
             ]
         }
     },
