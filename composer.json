@@ -54,6 +54,5 @@
             "infection/extension-installer": true,
             "pestphp/pest-plugin": true
         }
-    },
-    "abandoned": "azure-oss/storage-blob-laravel"
+    }
 }
