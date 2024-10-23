@@ -1,5 +1,8 @@
 {
     "name": "chrischerrett/laravel-azure-storage",
+    "replace": {
+        "matthewbdaly/laravel-azure-storage":"2.0.8"
+    },
     "description": "Microsoft Azure Blob Storage integration for Laravel's Storage API",
     "type": "library",
     "keywords": ["storage","laravel","azure", "blob"],
