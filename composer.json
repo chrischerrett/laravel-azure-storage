@@ -26,13 +26,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Matthew Daly",
-            "email": "matthewbdaly@gmail.com"
+            "name": "Chris Cherrett",
+            "email": "chrischerrett@gmail.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Matthewbdaly\\LaravelAzureStorage\\": "src/"
+            "chrischerrett\\LaravelAzureStorage\\": "src/"
         }
     },
     "autoload-dev": {
@@ -43,7 +43,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Matthewbdaly\\LaravelAzureStorage\\AzureStorageServiceProvider"
+                "chrischerrett\\LaravelAzureStorage\\AzureStorageServiceProvider"
             ]
         }
     },
